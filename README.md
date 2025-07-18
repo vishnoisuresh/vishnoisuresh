@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi, I'm Suresh 👋
 
-<!--
-**vishnoisuresh/vishnoisuresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+`Python` `Bash` `JavaScript` `OpenShift` `OpenShift Plus` `OCP-V` `GitOps` `OpenShift AI` `Docker` `AWS`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnoisuresh&show_icons=true&theme=minimal)
+
+## 🤝 Connect
+• [Stack Overflow](https://stackoverflow.com/users/8803619/suresh-vishnoi) 
+
+---
+⭐️ From [vishnoisuresh](https://github.com/vishnoisuresh)
