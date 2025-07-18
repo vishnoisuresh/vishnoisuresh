@@ -1,4 +1,4 @@
-# Hi there, I'm Suresh 👋
+# Namaste, I'm Suresh 👋
 
 <a href="https://github.com/vishnoisuresh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnoisuresh&layout=compact&theme=tokyonight&hide_border=true" />
